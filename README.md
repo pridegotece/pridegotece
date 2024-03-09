@@ -37,12 +37,4 @@
   <img src="https://img.shields.io/badge/-Vue.js-%234FC08D?style=flat&logo=vue.js&logoColor=white" alt="Vue.js"/>
 </p>
 
-### 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merdekamuka&theme=algolia&layout=compact" alt="Top Langs"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Merdekamuka&show_icons=true&theme=algolia" alt="Merdekamuka's GitHub Stats"/>
-</p>
